@@ -1,0 +1,14 @@
+First:      Last:       Hourly Pay:     Hours Worked:
+-----------------------------------------------------
+John        Doe         7.50             16
+Anne        Kop         8.50             16
+Nick        Mir         5.75             10
+Toni        Cav         8.25             14           
+
+$120.00 will be owed to John for this week.
+
+$136.00 will be owed to Anne for this week.
+
+$57.50 will be owed to Nick for this week.
+
+$115.50 will be owed to Toni for this week.
